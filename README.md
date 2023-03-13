@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦆 About Me: 
 Soy un programador Full-Stack en busca de mi primer trabajo profesional. Me especializo en HTML, CSS, JavaScript y Java, y tengo experiencia en la gestión de bases de datos como Mongo y Firebase. Aunque no tengo experiencia profesional, he trabajado en proyectos personales para mejorar mis habilidades en programación
 
 
