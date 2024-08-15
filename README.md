@@ -1,5 +1,17 @@
 # 🦆 About Me: 
-Soy un programador Full-Stack en busca de mi primer trabajo profesional. Me especializo en HTML, CSS, JavaScript y Java, y tengo experiencia en la gestión de bases de datos como Mongo y Firebase. Aunque no tengo experiencia profesional, he trabajado en proyectos personales para mejorar mis habilidades en programación
+ Programador Full-Stack con experiencia en sistemas de gestión y APIs REST,
+ especializado en Java y React. Capaz de adaptarme rápidamente a nuevas tecnologías y
+ resolver desafíos técnicos complejos. Mi habilidad para comunicarme efectivamente y
+ trabajar en equipo asegura una colaboración exitosa en entornos dinámicos. Estoy
+ buscando un entorno desafiante donde pueda seguir creciendo profesionalmente,
+ contribuyendo con mis habilidades técnicas y mi enfoque orientado a resultados
+
+ Full-Stack Developer with experience in management systems and REST APIs,
+ specialized in Java and React. I am capable of quickly adapting to new technologies
+ and solving complex technical challenges. My ability to communicate effectively and
+ work in teams ensures successful collaboration in dynamic environments. I am seeking
+ a challenging environment where I can continue growing professionally, contributing
+ with my technical skills and results-oriented approach
 
 
 ## 🌐 Socials:
